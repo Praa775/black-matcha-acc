@@ -1,0 +1,18 @@
+[
+  {
+    "username": "Nxraaa",
+    "password": "PELER",
+    "role": "owner",
+    "expiredDate": "2027-12-31",
+    "createdBy": "owner",
+    "createdAt": "2026-11-07T00:00:00.000Z"
+  },
+  {
+    "username": "trouble",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2027-01-30",
+    "createdBy": "owner",
+    "createdAt": "2026-11-07T00:00:00.000Z"
+  }
+]
