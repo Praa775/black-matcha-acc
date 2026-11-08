@@ -62,5 +62,13 @@
     "createdAt": "2026-11-08T10:48:42.874Z",
     "pairId": "FE5ED8B471C44E9E",
     "lastSend": 1794135844423
+  },
+  {
+    "username": "Sincan",
+    "password": "123",
+    "role": "owner",
+    "expiredDate": "2027-09-04",
+    "createdBy": "Nxraaaaaaa",
+    "createdAt": "2026-11-08T13:50:21.937Z"
   }
 ]
