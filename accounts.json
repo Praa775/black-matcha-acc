@@ -109,13 +109,5 @@
     "createdAt": "2026-11-10T00:47:29.139Z",
     "pairId": "7A0F47639DB510FF",
     "lastSend": 1794298017343
-  },
-  {
-    "username": "/start",
-    "password": "https://api.github.com/repos/Praa775/black-matcha-acc/contents/accounts.json",
-    "role": "member",
-    "expiredDate": "2026-12-23",
-    "createdBy": "Nxraaaaaaa",
-    "createdAt": "2026-11-10T08:10:29.552Z"
   }
 ]
