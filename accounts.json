@@ -114,16 +114,6 @@
     "pairId": "144AAB024421EDE8"
   },
   {
-    "username": "nuro",
-    "password": "nuro2smp",
-    "role": "member",
-    "expiredDate": "2026-11-25",
-    "createdBy": "Nxraaaaaaa",
-    "createdAt": "2026-11-16T14:08:46.953Z",
-    "pairId": "97111B206E148C4F",
-    "lastSend": 1795435976096
-  },
-  {
     "username": "CYYAAA",
     "password": "CYYAAA321",
     "role": "reseller",
@@ -151,6 +141,6 @@
     "createdBy": "Nxraaaaaaa",
     "createdAt": "2026-11-23T03:42:55.281Z",
     "pairId": "EA8BCE9A33CDA776",
-    "lastSend": 1795578111300
+    "lastSend": 1795611137379
   }
 ]
